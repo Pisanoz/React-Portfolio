@@ -1,6 +1,6 @@
 import React from "react";
 
-function Navigation({ currentPage, hanlePageChange }) {
+function Navigation({ currentPage, handlePageChange }) {
 	return (
 		<ul className="nav nav-tab">
 			<li className="nav-item">

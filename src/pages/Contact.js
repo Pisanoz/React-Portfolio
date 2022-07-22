@@ -1,5 +1,4 @@
-import React from "react";
-
+//form
 export default function Contact() {
 	return (
 		<div>

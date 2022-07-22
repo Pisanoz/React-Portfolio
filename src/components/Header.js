@@ -1,11 +1,12 @@
-import React from "react";
+import Navigation from "./Navigation";
 
-const Header = () => {
+const Header = ({currentPage, handlePageChange}) => {
 	return (
 		<header className="bg-primary text-light mb-4 py-3 flex-row align-center">
-			<div className="container flex-row justify-space-between-lg justify-center align-center">
+		
 				<h1 className="m-0">Zane Pisano</h1>
-			</div>
+				<Navigation currentPage={currentPage} handlePageChange={handlePageChange} />
+		
 		</header>
 	);
 };

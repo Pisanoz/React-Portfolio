@@ -5,7 +5,7 @@ export default function Resume() {
 		<div>
 			
 			<li>
-				<a href="./assets/pdf link/Resume-Zane-Pisano.pdf" target="_blank">
+				<a href="https://drive.google.com/file/d/1nDKWmdI9roNW9I6sEX_1469EF9tJEURA/view?usp=sharing" target="_blank">
 					Download Resume
 				</a>
 			</li>
